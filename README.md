@@ -4,6 +4,14 @@
 
 Helping **startups**, **non-technical founders**, and **small businesses** build smart workflows, AI-powered tools, and reliable systems that work.
 
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-green?logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Workflows-orange?logo=n8n)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?logo=typescript&logoColor=white)
+![AI Driven Development](https://img.shields.io/badge/AI--Driven-Development-purple?logo=openai&logoColor=white)
+![Spec Driven](https://img.shields.io/badge/Spec--Driven-Development-red)
+
 ---
 
 ## 🚀 What I Do
