@@ -1,8 +1,8 @@
 # Hi, I'm Hubaib Mehmood 👋
 
-### I Build Automated, AI-Driven, Spec-First Backend Systems
+### I Build Production-Ready SaaS for Non-Technical Founders
 
-Helping **startups**, **non-technical founders**, and **small businesses** build smart workflows, AI-powered tools, and reliable systems that work.
+Most developers build what you ask for. I build what you actually need — **Spec-First methodology** that eliminates scope creep, prevents technical debt, and ships production-ready platforms.
 
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
@@ -158,9 +158,8 @@ Every project gets complete visibility at every stage.
 - 🔄 **Workflow Automation Projects** (n8n, Zapier alternatives)
 - 🤖 **AI System Development** (Agents, Bots, Predictive Tools)
 - 🏗️ **Spec-Driven Projects** (Structured, high-quality development)
-- 🖥️ **Custom Desktop Applications** (Python, CustomTkinter)
 - 🌐 **Backend Development** (FastAPI, Python, Node.js)
-- 🕷️ **Web Scraping & Automation** (Playwright, Selenium)
+- 🚀 **SaaS MVP Development** (spec to production, non-technical founder friendly)
 
 ---
 
