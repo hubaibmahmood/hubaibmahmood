@@ -1,6 +1,6 @@
 # Hi, I'm Hubaib Mehmood 👋
 
-### I Build AI Powered Production-Ready SaaS for Non-Technical Founders
+### I Build Production-Ready AI SaaS for Non-Technical Founders
 
 Most developers build what you ask for. I build what you actually need — **Spec-First methodology** that eliminates scope creep, prevents technical debt, and ships production-ready platforms.
 
