@@ -54,7 +54,7 @@ A structured, specification-first methodology where the spec becomes the foundat
 ```
 
 **Recent Success Stories:**
-- **Momentum SaaS Platform:** Production-ready AI-powered task management with microservices architecture (5 services), deployed live at momentum.intevia.cc
+- **Momentum SaaS Platform:** Production-ready AI-powered task management with microservices architecture (5 services), deployed live at momentum.vlesto.com
 - **DocGen AI:** Intelligent code-to-docs generator analyzing entire repositories to create Architecture, API references, and READMEs automatically
 - **AI Image Generator:** Async workflow combining n8n backend with modern frontend for seamless AI image generation
 
@@ -86,8 +86,8 @@ AWS  •  MySQL  •  Git  •  CI/CD  •  Docker
 
 ## 📂 Featured Projects
 
-### 🚀 [Momentum](https://momentum.intevia.cc) - AI-Powered Task Management SaaS ⭐
-**[Live Demo](https://momentum.intevia.cc)** | **[Source Code](https://github.com/hubaibmahmood/spec-driven-todo-app)**
+### 🚀 [Momentum](https://momentum.vlesto.com) - AI-Powered Task Management SaaS ⭐
+**[Live Demo](https://momentum.vlesto.com)** | **[Source Code](https://github.com/hubaibmahmood/spec-driven-todo-app)**
 
 Production-ready SaaS platform with **natural language AI** for task management. Manage your tasks by chatting with AI - no forms, just conversation.
 
@@ -108,13 +108,13 @@ Production-ready SaaS platform with **natural language AI** for task management.
 
 ---
 
-### [DocGen AI](https://intevia.cc/portfolio/docgen-ai) - Intelligent Documentation Generator
+### [DocGen AI](https://vlesto.com/portfolio/docgen-ai) - Intelligent Documentation Generator
 Analyzes entire codebases to generate structured, cohesive documentation automatically. Built with AI-driven code analysis and spec-driven methodology.
 
 **Tech:** Python, AI Analysis, Automation, Spec-Kit-Plus
 **Impact:** Keeps documentation in sync with codebase automatically
 
-### [AI Image Generator with n8n](https://intevia.cc/portfolio/ai-image-generator-n8n-lovable)
+### [AI Image Generator with n8n](https://vlesto.com/portfolio/ai-image-generator-n8n-lovable)
 Asynchronous AI image generation tool with modern frontend and robust n8n backend workflow.
 
 **Tech:** n8n, Lovable, OpenAI, Async Workflows
@@ -142,12 +142,10 @@ Asynchronous AI image generation tool with modern frontend and robust n8n backen
 
 I follow a **transparent, structured process** from discovery to delivery:
 
-1. **Discovery** - Discuss goals, pain points, and vision
+1. **Discovery & Research** - Discuss goals, pain points, and vision
 2. **Specification** - Create detailed spec outlining system behavior and workflows
-3. **Technical Planning** - Design architecture and roadmap
-4. **Task Breakdown** - Break plan into actionable, testable tasks
-5. **Implementation** - Build system aligned with specification
-6. **Validation & Delivery** - Validate against spec, deliver with full documentation
+3. **Refinement** - Before any code is written, we interview you to surface every unanswered question. 
+6. **AI Powered Implementation** - With a locked spec, we build using AI-assisted development,faster and more consistent than traditional coding
 
 Every project gets complete visibility at every stage.
 
@@ -159,7 +157,7 @@ Every project gets complete visibility at every stage.
 - 🤖 **AI System Development** (Agents, Bots, Predictive Tools)
 - 🏗️ **Spec-Driven Projects** (Structured, high-quality development)
 - 🌐 **Backend Development** (FastAPI, Python, Node.js)
-- 🚀 **SaaS MVP Development** (spec to production, non-technical founder friendly)
+- 🚀 **SaaS Or MVP Development** (spec to production, non-technical founder friendly)
 
 ---
 
@@ -167,8 +165,8 @@ Every project gets complete visibility at every stage.
 
 **I'm currently available for freelance projects and consulting.**
 
-- 🌐 **Portfolio:** [intevia.cc](https://intevia.cc)
-- 📧 **Email:** [hubaibm9@email.com](mailto:hubaibm9@email.com)
+- 🌐 **Portfolio:** [intevia.cc](https://vlesto.com)
+- 📧 **Email:** [hubaibm9@email.com](mailto:hubaibmahmood@vlesto.com)
 - 💬 **LinkedIn:** [Hubaib Mehmood](https://www.linkedin.com/in/hubaib-mehmood-122817205/)
 
 **Typical Response Time:** Within 1 hour
@@ -180,6 +178,6 @@ Every project gets complete visibility at every stage.
 
 ### 🚀 Building reliable, scalable, and future-proof solutions for businesses worldwide
 
-**[Get a Quote](mailto:hubaibm9@email.com?subject=Project%20Inquiry%20from%20GitHub)** • **[View Portfolio](https://intevia.cc)**
+**[Get a Quote](mailto:hubaibmahmood@vlesto.com?subject=Project%20Inquiry%20from%20GitHub)** • **[View Portfolio](https://vlesto.com)**
 
 </div>
