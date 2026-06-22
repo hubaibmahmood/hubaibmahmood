@@ -165,8 +165,8 @@ Every project gets complete visibility at every stage.
 
 **I'm currently available for freelance projects and consulting.**
 
-- 🌐 **Portfolio:** [intevia.cc](https://vlesto.com)
-- 📧 **Email:** [hubaibm9@email.com](mailto:hubaibmahmood@vlesto.com)
+- 🌐 **Portfolio:** [vlesto.com](https://vlesto.com)
+- 📧 **Email:** [hubaibmahmood@vlesto.com](mailto:hubaibmahmood@vlesto.com)
 - 💬 **LinkedIn:** [Hubaib Mehmood](https://www.linkedin.com/in/hubaib-mehmood-122817205/)
 
 **Typical Response Time:** Within 1 hour
