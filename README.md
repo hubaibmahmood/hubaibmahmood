@@ -50,7 +50,7 @@ A structured, specification-first methodology where the spec becomes the foundat
 ## 💼 Professional Track Record
 
 ```
-📊 200+ Projects Delivered  |  ⭐ 4.9/5 Rating (105 Reviews)  |  🏆 5 Years Experience
+📊 200+ Projects Delivered  |  ⭐ 4.8/5 Rating (105 Reviews)  |  🏆 5 Years Experience
 ```
 
 **Recent Success Stories:**
